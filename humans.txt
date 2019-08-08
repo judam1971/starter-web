@@ -5,7 +5,7 @@
 
     Juda Masamy 
 	judam@hp.com
-	jumas
+	
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
+	Docker, Java Programming
