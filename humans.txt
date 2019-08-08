@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Juda Masamy -- <twitter>
+    Juda Masamy 
+	judam@hp.com
+	jumas
 
 # THANKS
 
