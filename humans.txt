@@ -4,6 +4,12 @@
 Hi, I am modifing the file before rebase
 
 Doing some changes in Local
+
+I am modifing the file before rebase
+
+Hi, Going to insert conflicts in my feature branch
+
+
 # TEAM
 
     Juda Masamy 
