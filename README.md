@@ -10,5 +10,8 @@ This is the famous and one of the best training devops course
 
 ## GIT COMPARISONS
 
+## Contribution
+for the Repo and raise full request for review
+
 ## GitHub Content
 comparison with Repo
