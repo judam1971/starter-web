@@ -15,4 +15,4 @@ Adding Git Rebase lectures we have done a lot of work
 for the Repo and raise full request for review
 
 ## GitHub Content
-comparison with Repo
+Adding Git omparison with Repo
