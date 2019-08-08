@@ -7,7 +7,7 @@ A lot of lectures are already submitted
 
 ## GIT & GITHub Training
 This is the famous and one of the best training devops course
-Adding Git Rebase lectures
+Adding Git Rebase lectures we have done a lot of work
 ## GIT COMPARISONS
 
 ## Contribution
